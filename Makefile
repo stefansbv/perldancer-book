@@ -4,7 +4,6 @@
 #  AsciiDoctor 0.1.4 (https://github.com/asciidoctor/asciidoctor)
 #  asciidoctor-fopub (https://github.com/asciidoctor/asciidoctor-fopub)
 #  a2x (asciidoc 8.6.9)
-#  DocBook xsl-stylesheets-1.78.1
 #
 #  Experimental:
 #  asciidoctor-epub3 with AsciiDoctor 1.5.0.preview.8
