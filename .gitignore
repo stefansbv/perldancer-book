@@ -1,2 +1,3 @@
 build/chapters/*pod
 build/html/*html
+build/output/

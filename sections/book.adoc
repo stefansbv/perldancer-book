@@ -1,0 +1,13 @@
+Perl Dancer
+===========
+v1.0, 2014-06-30
+:Author:      Alexis Sukrieh
+:doctype:     book
+:lang:        en
+:description: !description here!
+:imagesdir:   assets/images
+:homepage:    http://perldancer.org/
+
+include::chapter_00.adoc[]
+
+include::CGI.adoc[]
